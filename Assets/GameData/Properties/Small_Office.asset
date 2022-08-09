@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38783c09e619b7c4f8456ba8ed05f148, type: 3}
+  m_Name: Small_Office
+  m_EditorClassIdentifier: 
+  nameproperty: "Oficina peque\xF1a"
+  image: {fileID: 21300000, guid: 4bb764d779ad81b4bab2eae6ab37c0ea, type: 3}
+  lvl: 1
+  nextlevelprice: -40000
+  workers: 10
+  workersmax: 40
+  clientsmax: 20
+  ordersmax: 40
+  cost: -20000
