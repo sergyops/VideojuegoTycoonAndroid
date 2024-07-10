@@ -2,7 +2,7 @@
 
 TFG para la finalización de los estudios del **Grado Superior de Desarrollo de Aplicaciones Multiplataforma**.
 
-El videojuego consiste en que eres es el jefe de una empresa de compras por internet y deberás hacer que se convierta en una multinacional que opere en todos los países.
+El videojuego consiste en que eres el jefe de una empresa de compras por internet y deberás hacer que se convierta en una multinacional que opere en todos los países.
 
 Pero, mucho cuidado con las decisiones que tomes, ya que te pueden sancionar y llegar a quebrar la empresa.
 
